@@ -1,5 +1,3 @@
-// 02 조이스틱으로 LED 제어
-
 int if_push = 0;
 
 void setup()
